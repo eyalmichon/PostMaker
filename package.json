@@ -1,0 +1,15 @@
+{
+  "name": "postmaker",
+  "version": "1.0.0",
+  "description": "automate process of post making.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Eyal Michon",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
