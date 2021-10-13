@@ -1,6 +1,6 @@
 {
   "name": "postmaker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "automate process of post making.",
   "main": "index.js",
   "scripts": {
