@@ -14,6 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.8.0",
-    "node-telegram-bot-api": "^0.54.0"
+    "changelog-parser": "^2.8.0",
+    "command-line-args": "^5.2.0",
+    "marked": "^3.0.7",
+    "node-telegram-bot-api": "^0.54.0",
+    "puppeteer": "^10.4.0"
   }
 }
